@@ -37,48 +37,49 @@ These factors, along with requirements as to which file formats are and are not 
 
 #### Digital photographs and other still image files:
 
-**Best File Formats:**    
+##### Best File Formats:
 
 * High-resolution, uncompressed TIFF file (preferably 400 dpi or higher) [*.tif, *.tiff]                                                              
 
-**Good Enough File Formats:**   
+##### Good Enough File Formats: 
 
 * JPEG2000 Lossless [*.jp2] 
-* JPEG [*.jpg, *.jpeg] (If the photographer typically shoots in JPEG, we will transfer those JPEG images. Otherwise an alternative format may be preferable.)                                                        
+* JPEG [*.jpg, *.jpeg] (If the photographer typically shoots in JPEG, we will transfer those JPEG images. Otherwise an alternative format may be preferable.)  
 
-**Poor File Formats:**   
+##### Poor File Formats: 
 
 * RAW Output (RAW digital camera images are sometimes large and often proprietary. A RAW file cannot be used as an image; an image file must be created from the data in order to view and edit the image.) 
-* Any other proprietary file formats                                                                                                                                          
+* Any other proprietary file formats
 
 #### Digital audio files:
 
-**Best File Formats:**    
+##### Best File Formats:  
 
 * WAV (96 kHz 24 bit PCM<a href="#anchor1"><sup>1</sup></a>) [*.wav]  
-* Broadcast WAV (96 kHz 24 bit PCM) [*.bwav, *.wav]                                                     
-**Good Enough File Formats:**   
+* Broadcast WAV (96 kHz 24 bit PCM) [*.bwav, *.wav]                        
+      
+##### Good Enough File Formats:
 
 * AIFF (at least 44 kHz 16 bit PCM) [*.aif, *.aiff]
 * WAV (44 kHz 16 bit PCM) [*.wav]      
 * MP3 (MPEG-1/2, layer 3) [*.mp3]                                                
 
-**Poor File Formats:**   
+##### Poor File Formats:
 
 * Proprietary File Formats  
 
 #### Digital video files:
 
-**Best File Formats:**    
+##### Best File Formats:
 
 * QuickTime Movie (uncompressed, motion JPEG) [*.mov]
 * Matroska file format with FFVI video encoding [*.mkv]  
 * Material eXchange Format (MXF) [*.mxf]                                                   
-**Good Enough File Formats:**   
+##### Good Enough File Formats:
 
 * MP4 (MPEG-4) [*.mp4]                                            
 
-**Poor File Formats:**   
+##### Poor File Formats:
 
 * Proprietary File Formats  
 
