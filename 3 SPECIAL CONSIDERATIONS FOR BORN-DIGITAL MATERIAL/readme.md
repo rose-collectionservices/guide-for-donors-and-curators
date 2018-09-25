@@ -35,7 +35,7 @@ In order to maximize storage space, some file formats use compression algorithms
 
 These factors, along with requirements as to which file formats are and are not compatible with our digital repository, inform the following recommendations:
 
-####Digital photographs and other still image files:
+#### Digital photographs and other still image files:
 
 | Best File Formats                                                                      | Good Enough File Formats                                                                                                                                    | Poor File Formats                                                                                                                                                                                         |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
