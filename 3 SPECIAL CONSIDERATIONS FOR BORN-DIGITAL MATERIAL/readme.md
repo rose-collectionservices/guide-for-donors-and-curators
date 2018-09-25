@@ -35,6 +35,8 @@ In order to maximize storage space, some file formats use compression algorithms
 
 These factors, along with requirements as to which file formats are and are not compatible with our digital repository, inform the following recommendations:
 
+---
+
 #### Digital photographs and other still image files:
 
 ##### Best File Formats:
@@ -50,6 +52,8 @@ These factors, along with requirements as to which file formats are and are not 
 
 * RAW Output (RAW digital camera images are sometimes large and often proprietary. A RAW file cannot be used as an image; an image file must be created from the data in order to view and edit the image.) 
 * Any other proprietary file formats
+
+---
 
 #### Digital audio files:
 
@@ -67,6 +71,8 @@ These factors, along with requirements as to which file formats are and are not 
 ##### Poor File Formats:
 
 * Proprietary File Formats  
+
+---
 
 #### Digital video files:
 
