@@ -4,7 +4,7 @@
 * [1.2 What is an archives?](#12-what-is-an-archives)
 * [1.3 What is a collection?](#13-what-is-a-collection)
 * [1.4 What is the role of an archivist?](#14-what-is-the-role-of-an-archivist)
-* [1.5 Other terms to know](#15-other-terms-to-know)
+* [1.5 Other terms to know](#15-other-terms-to-know2)
 
 ## 1.1 Placing your collection at the Rose Library
 
@@ -67,4 +67,5 @@ Archivists often work with donors to inform decisions about arrangement, descrip
 ---
 
 <a id="anchor1">[1]</a> Temperature is 55 degrees Fahrenheit and relative humidity is less than 30%.
+
 <a id="anchor1">[2]</a> Many definitions copied or adapted from the Society of American Archivists Glossary of Archival and Records Terminology.  http://www2.archivists.org/glossary 
