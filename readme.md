@@ -1,9 +1,9 @@
 ## The Stuart A. Rose Manuscript, Archives, and Rare Book Library
 # Guide for Donors and Curators
 
-### 1.1 About this Guide
+### About this Guide
 
-### 1.2 About the Stuart A. Rose Manuscript, Archives, and Rare Book Library
+### About the Stuart A. Rose Manuscript, Archives, and Rare Book Library
 
 The Stuart A. Rose Manuscript, Archives, & Rare Book Library collects and connects stories of human experience, promotes access and learning, and offers opportunities for dialogue for all wise hearts who seek knowledge.
 
