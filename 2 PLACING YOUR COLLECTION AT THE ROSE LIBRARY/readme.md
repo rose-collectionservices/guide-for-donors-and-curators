@@ -6,9 +6,8 @@ There are many good reasons to donate your papers to the Rose Library.  Our envi
 
 If you're interested in placing your papers at the Rose Library, please contact us at rose.library@emory.edu and we will refer you to the proper curator.
 
-> "Some of our papers can’t [physically] stand the test of time. They need to be   
-> properly preserved, and Emory does an excellent job" (C. T. Vivian, Civil Rights
-> leader and Presidential Medal of Freedom recipient).
+> "Some of our papers can’t [physically] stand the test of time. They need to be   properly preserved, and Emory does an excellent job" (C. T. Vivian, Civil Rights
+leader and Presidential Medal of Freedom recipient).
 
 ---
 
