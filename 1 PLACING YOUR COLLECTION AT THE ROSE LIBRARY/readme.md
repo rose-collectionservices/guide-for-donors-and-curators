@@ -1,12 +1,12 @@
-# The transfer of your collection to an archives
+# Placing your collection at the Rose Library
 
-* [1.1 Placing your collection at the Rose Library](#11-placing-your-collection-at-the-rose-library)
+* [1.1 Why the Rose Library?](#11-why-the-rose-library)
 * [1.2 What is an archives?](#12-what-is-an-archives)
 * [1.3 What is a collection?](#13-what-is-a-collection)
 * [1.4 What is the role of an archivist?](#14-what-is-the-role-of-an-archivist)
 * [1.5 Other terms to know](#15-other-terms-to-know2)
 
-## 1.1 Placing your collection at the Rose Library
+## 1.1 Why the Rose Library?
 
 We understand that making the decision to place your materials in an archival repository can be an emotional and, sometimes, difficult process.  For many donors, this can represent "letting go" or ceding control of a lifetime of work and memories.  You'll have many questions throughout this process, and the staff of the Rose Library are here to answer those questions.  The donation of your papers initiates an ongoing and long-term relationship between you and library staff, and we will work together to ensure your trust and confidence in our stewardship of your or your loved one’s legacy.
 

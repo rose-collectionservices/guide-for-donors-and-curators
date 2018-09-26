@@ -1,6 +1,27 @@
 ## The Stuart A. Rose Manuscript, Archives, and Rare Book Library
 # Guide for Donors and Curators
 
+* [i About this guide](#about-this-guide)
+* [ii About the Stuart A. Rose Manuscript, Archives, and Rare Book Library](#about-the-stuart-a-rose-manuscript-and-rare-book-library)
+* [1 Placing your collection at the Rose Library](/1%20PLACING%20YOUR%20COLLECTION%20AT%20THE%20ROSE%20LIBRARY)
+	* [1.1 Why the Rose Library?](/1%20PLACING%20YOUR%20COLLECTION%20AT%20THE%20ROSE%20LIBRARY#11-why-the-rose-library)
+	* [1.2 What is an archives?](/1%20PLACING%20YOUR%20COLLECTION%20AT%20THE%20ROSE%20LIBRARY#12-what-is-an-archives) 
+	* [1.3 What is a collection?](/1%20PLACING%20YOUR%20COLLECTION%20AT%20THE%20ROSE%20LIBRARY#13-what-is-a-collection)
+	* [1.4 What is the role of an archivist?](/1%20PLACING%20YOUR%20COLLECTION%20AT%20THE%20ROSE%20LIBRARY#14-what-is-the-role-of-an-archivist)
+	* [1.5 Other terms to know](/1%20PLACING%20YOUR%20COLLECTION%20AT%20THE%20ROSE%20LIBRARY#15-other-terms-to-know)
+* [2 Getting started](/2%20GETTING%20STARTED)
+	* [2.1 Initial planning](/2%20GETTING%20STARTED#21-initial-planning)
+	* [2.2 Paperwork](/2%20GETTING%20STARTED#22-paperwork)
+	* [2.3 Physical transfer](/2%20GETTING%20STARTED#23-physical-transfer)
+* 3 Transferring digital media and files as part of your collection
+	* [3.1 Special considerations for born-digital material](/3%20TRANSFERRING%20DIGITAL%20MEDIA%20AND%20FILES%20AS%20PART%20OF%20YOUR%20COLLECTION)
+	* [3.2 Selecting file formats for long-term preservation and access](/3%20TRANSFERRING%20DIGITAL%20MEDIA%20AND%20FILES%20AS%20PART%20OF%20YOUR%20COLLECTION/file-format-recommendations.md)
+* [4 What to expect after transfer](/4%20WHAT%20TO%20EXPECT%20AFTER%20TRANSFER)
+	 * [4.1 Accessioning](/4%20WHAT%20TO%20EXPECT%20AFTER%20TRANSFER#41-accessioning)
+	 * [4.2 Arrangement](/4%20WHAT%20TO%20EXPECT%20AFTER%20TRANSFER#42-arrangement)
+	 * [4.3 Description](/4%20WHAT%20TO%20EXPECT%20AFTER%20TRANSFER#43-description)
+	 * [4.4 Use](/4%20WHAT%20TO%20EXPECT%20AFTER%20TRANSFER#44-use)
+
 ### About this Guide
 
 ### About the Stuart A. Rose Manuscript, Archives, and Rare Book Library
