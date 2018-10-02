@@ -24,6 +24,12 @@
 
 ### About this Guide
 
+This guide is intended to support conversations between curators from the Rose Library and any person or organization who is considering, or in the process of, transferring their collection to an archives. 
+
+Part one introduces the Stuart A. Rose Manuscript, Archives, and Rare Book Library and defines some key terms in order to help potential donors make informed decisions as to as to the future home of their collection. Parts two, three, and four describe the steps involved in the transfer process and highlight important considerations that Rose Library staff and curators will be happy to discuss in greater detail. 
+
+Staff and curators at the Rose Library are available throughout this process to provide assitance and answer questions. Contact information can be found in the [Rose Library Staff Dirctory](http://rose.library.emory.edu/about/staff-directory/index.html).  
+
 ### About the Stuart A. Rose Manuscript, Archives, and Rare Book Library
 
 The Stuart A. Rose Manuscript, Archives, & Rare Book Library collects and connects stories of human experience, promotes access and learning, and offers opportunities for dialogue for all wise hearts who seek knowledge.
